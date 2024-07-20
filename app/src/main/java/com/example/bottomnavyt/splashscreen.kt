@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.ui.login.Login
 
 class splashscreen : AppCompatActivity() {
     private val SPLASH_TIME_OUT = 4000 // 4 detik
